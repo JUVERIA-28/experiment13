@@ -2,10 +2,6 @@
 
 A simple and clean TODO list application built with React.
 
-## 🚀 Live Demo
-
-Check out the live version:  
-👉 [https://your-username.github.io/react-todo-app](https://your-username.github.io/react-todo-app)
 
 ## 📦 Features
 
@@ -18,11 +14,6 @@ Check out the live version:
 
 - React
 - HTML/CSS (inline styling)
-- GitHub Pages (for deployment)
 
-## 📦 Installation & Run Locally
+github link:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/react-todo-app.git
-   cd react-todo-app
