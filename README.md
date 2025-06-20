@@ -1,16 +1,16 @@
-# React TODO App ✅
+# React TODO App 
 
 A simple and clean TODO list application built with React.
 
 
-## 📦 Features
+ Features
 
 - Add TODO items
 - Mark items as complete/incomplete
 - Delete TODOs
 - Simple and responsive design
 
-## 🛠️ Technologies
+ Technologies
 
 - React
 - HTML/CSS (inline styling)
